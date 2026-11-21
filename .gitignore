@@ -1,0 +1,5 @@
+build/
+dist/
+pluginval-logs/
+.vs/
+*.user
